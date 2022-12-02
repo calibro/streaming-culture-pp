@@ -1,0 +1,51 @@
+{
+    "positions": [
+        [
+            -1.0,
+            -0.57407
+        ],
+        [
+            -1.0,
+            0.05556
+        ],
+        [
+            -0.35849,
+            -0.57407
+        ],
+        [
+            -0.39623,
+            0.05556
+        ],
+        [
+            0.24528,
+            -0.57407
+        ],
+        [
+            0.13208,
+            0.05556
+        ],
+        [
+            0.73585,
+            -0.57407
+        ],
+        [
+            0.43396,
+            0.05556
+        ],
+        [
+            0.96226,
+            -0.57407
+        ]
+    ],
+    "labels": [
+        "People & Blogs",
+        "Education",
+        "Entertainment",
+        "Science & Technology",
+        "Music",
+        "Travel & Events",
+        "Film & Animation",
+        "Howto & Style",
+        "Nonprofits & Activism"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "version": "0.0.113",
+    "plot_id": "a8d2660c-6fd6-11ed-8dc1-f2189823ea2b",
+    "output_directory": "output",
+    "layouts": {
+        "umap": {
+            "variants": [
+                {
+                    "n_neighbors": 15,
+                    "min_dist": 0.01,
+                    "layout": "output/data/layouts/umap-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json",
+                    "jittered": "output/data/layouts/umap-jittered-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json"
+                }
+            ]
+        },
+        "alphabetic": {
+            "layout": "output/data/layouts/grid-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json"
+        },
+        "grid": {
+            "layout": "output/data/layouts/rasterfairy-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json"
+        },
+        "categorical": {
+            "layout": "output/data/layouts/categorical-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json",
+            "labels": "output/data/layouts/categorical-labels-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json"
+        },
+        "date": {
+            "layout": "output/data/layouts/timeline-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json",
+            "labels": "output/data/layouts/timeline-labels-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json"
+        },
+        "geographic": null,
+        "custom": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.03333333333333333,
+        "max": 0.04,
+        "scatter": 0.006666666666666667,
+        "initial": 0.006666666666666667,
+        "categorical": 0.02,
+        "geographic": 0.0008333333333333334,
+        "date": 0.02040816326530612
+    },
+    "imagelist": "output/data/imagelists/imagelist-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json",
+    "atlas_dir": "output/data/atlases/a8d2660c-6fd6-11ed-8dc1-f2189823ea2b",
+    "metadata": true,
+    "default_hotspots": "output/data/hotspots/hotspot-a8d2660c-6fd6-11ed-8dc1-f2189823ea2b.json",
+    "custom_hotspots": "output/data/hotspots/user_hotspots.json",
+    "gzipped": false,
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "creation_date": "29-November-2022-12:14:33"
+}
